@@ -1,0 +1,12 @@
+
+h1{
+    text-align: center;
+}
+.container {
+    max-width: 500px;
+    margin-top: 60px;
+}
+.container #outRetorno {
+    
+    text-align: justify;
+}
